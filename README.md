@@ -14,7 +14,7 @@ The anti-breakpoints method implemented in this project helps prevent breakpoint
 
 ## Usage
 
-To use Anti-Breakpoints in your project, simply include the provided code snippets or integrate the methodology into your existing codebase.
+To use Anti-Breakpoints in your project, simply include the provided code snippets into your existing codebase.
 
 ## Installation
 
